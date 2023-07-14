@@ -1,0 +1,11 @@
+CREATE DATABASE notes_db;
+
+USE notes_db;
+
+CREATE TABLE notes (
+     id MEDIUMINT NOT NULL AUTO_INCREMENT,
+     title CHAR(255) NOT NULL,
+     content CHAR(255) NOT NULL,
+     created long,
+     PRIMARY KEY (id)
+);
