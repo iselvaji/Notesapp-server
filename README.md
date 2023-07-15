@@ -10,3 +10,7 @@ Features
 - Get Notes
 - Delete Notes
 - Update Notes
+
+Design
+
+![image](https://github.com/iselvaji/Notesapp-server/assets/28477412/6bfa4880-c2c0-4a9a-a171-d14fa0ef8ff8)
